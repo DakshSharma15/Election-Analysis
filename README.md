@@ -1,5 +1,4 @@
-# Election-Analysis
-Election Analysis is a Python project that processes election data to calculate vote counts, percentages, and determine the winning candidate. It provides a clear summary of election results for analytical or educational use.
+
 # 🗳️ Election Analysis
 
 **Election Analysis** is a Python-based project that processes and analyzes election data to provide insights into voting patterns, candidate performance, and election outcomes. This project also includes sentiment analysis using Twitter data, providing a comprehensive view of public sentiment and its correlation with election results.
